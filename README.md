@@ -11,5 +11,4 @@ Experimental Project With CNN and Image Similarity
 
 #### Run search.py to initiate the search engine. (First run will make a database of features)
 
-![train](/myplot.png)
 ![result](/search.png)
